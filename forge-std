@@ -1,0 +1,13 @@
+[33mcommit 047065f48dbf3524b0fd41e55ffc9cd648e9eada[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: iagoprand1 <iago.oliveira2478@gmail.com>
+Date:   Sat Jun 22 22:44:04 2024 -0300
+
+    forge install: forge-std
+    
+    v1.8.2
+
+[33mcommit 3422af491a8c56292fdd7c8820e77b6992caeebd[m
+Author: iagoprand1 <iago.oliveira2478@gmail.com>
+Date:   Sat Jun 22 22:44:03 2024 -0300
+
+    chore: forge init
